@@ -1,0 +1,63 @@
+intro:
+understandin of risk profitability of company trough the anaysis of quaterly and anual reports.
+it is selection, interprtation,evaluation along with other persistant data for investment purpose.
+it is used to employee performance internally and company performance for external users.
+credit worthyness amoung barrowers.
+primary source data anual report
+1)income, balance sheet, cf 
+2)liquidity and solency
+3)equity valuation to reduce uncertanity and improve the confedance
+
+financial status
+anaysis means establishing a meaning full relatin betwwen various financial statements in such a way to get a conclusion
+and helps in assesing corporate excellence, judging credit worthieness,forcasting bond rating, evaluating intrinsic valve of equity shares
+
+they are 1)p&Lstatements 2)balnce sheet are indicators of profitability and finncial soundness and future prospects.
+
+profitabity:
+wheather there are profitaable returns form the investments
+
+indicate the trand of achivements:
+assessing the growth potential of business:
+comparative position in relationn to other firms
+sales, expense,profitabilty and utilissing of funds.
+assess the financial strenth of business:
+
+assess solvency of firm
+
+types of FS:
+trend analysis
+
+income statements,blance sheet, statement of retained earnings and CF statements
+
+comparitive balance sheet are shown a comparision on periodic change, % change
+
+comman sized analysis is % campasion of total assets and total lability as 100
+
+ratio analysis:
+arthaamatical relaion fromed out of financial reports
+simplification of accounting data it is simplified summarised analysis of financial reports
+
+focus on trends slaes,income,
+selling standards
+
+advantages and uses of ratio analysis
+to work out profitabilty, eraning capacity and solvency shows us libilities aand assets relation 
+comparitive and analysis to simplyfy the accouting information
+to work out the operaation efficiency by liquidity ratio
+helpful in forecasting purpose 
+
+limitation:
+limited comparibility due to differant method.
+false results.
+effect of price level changes.
+qualitative factors are ignored.
+effect of window dressing.
+costly technices.
+misleading results.
+absence of standard university accepted terminology.
+
+FM:
+the objective of maximization of company economic welfare.two criteria
+1)profit maximisation
+2)wealth maximisation

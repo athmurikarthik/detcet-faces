@@ -1,0 +1,1 @@
+ HI, this is Karthik, I have experience of 6months as ML engineer, It is an internship I had worked on the creation of data in image processing with the help of tools like labelme, labeling, image classification and I have knowledge in the deployment of models using flask and Gradio.

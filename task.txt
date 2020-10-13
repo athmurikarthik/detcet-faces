@@ -1,0 +1,15 @@
+avantari_task
+
+1)initailly import necessary libraries.
+2)import necessary layers in tensorflow.
+3)by creating empty list to append the images which are converted to 512,512 ie., new_data.
+4)due to unsupervised data there is no labels for data so data has to split for training purpose for that x_train &x_test.
+5)for training data has to be resized.
+6)model has to setup with encoders & decoders with respective layers so that I have used conv2D,maxpooling2D,upsampling2D and activation funtion relu and sigmoid.
+7)model compilation Adam optimizer and binary_crossentropy.
+8)for training batch_size and epochs has to be mentioned they has to be clusterd by kmeans clustering.
+9)visualise the trained data sacatter diagram.
+10)model has to be fit to trained data and visualise them.
+11)predict the result with x_test.
+12)to extact the similar images in the model by cosine similarity funtion, to visualise co-variance use heatmap.
+ 
